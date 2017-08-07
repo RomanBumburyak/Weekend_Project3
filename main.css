@@ -1,0 +1,23 @@
+
+
+.button {
+background: red;
+
+}
+
+.row {
+  /*width:  250px;*/
+
+}
+.container {
+  /*width: 250px;
+  height: 250px;
+  background-color: grey;*/
+}
+
+#solutionBox {
+float: right;
+width:75%;
+height:100%;
+border: 1px solid green;
+}
