@@ -1,19 +1,24 @@
 
 
 .button {
-background: red;
-margin-left: -5px;  
+margin-left: -5px;
 }
 
 .row {
-  width:  120px;
+  width:  520px;
+  justify-content: space-around;
+  padding: 5px;
+  text-align: center;
+  color: blue;
+
 
 }
 .container {
-  width: 120px;
-  height: 250px;
-  /*background-color: grey;*/
+  width: 220px;
+  height: 350px;
+
 }
+
 
 
 #solutionBox {
@@ -21,7 +26,7 @@ margin-left: -5px;
 overflow: auto;
 display: inline-block;
 vertical-align: top;
-width:50px;
+width:75px;
 height:20px;
-border: 1px solid red;
+border: 1px solid black;
 }

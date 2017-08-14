@@ -275,7 +275,7 @@ function dot () {
 
   }
   else {
-    input2 += "."
+    input2 += "0"
     equation = input1 + operation + input2;
     document.getElementById("solutionBox").innerText = equation;
     console.log("input2: " + input2);
